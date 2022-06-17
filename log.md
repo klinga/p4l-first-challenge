@@ -4,4 +4,4 @@
 #### Day n (YYYY-MM-DD)
 Today's progress:\
 Thoughts:\
-Link to work:\
+Link to work:
